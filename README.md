@@ -1,4 +1,4 @@
-# cct_data_exploration_and_preparation
+# CCT Data Exploration and Preparation
 This repository is based on the CCT course about Data Exploration and Preparation lectured by Dr. Muhammad lqbal
 
 👇 Access the exercise directly from Google Colab. Once you loaded the notebook, go to File > Save a copy in Drive
